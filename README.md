@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="[https://i.imgur.com/DIpuNTI.jpg](https://github.com/mdarif76769/seeker/blob/main/Screenshot_2026-05-17-22-52-19-654_com.google.android.googlequicksearchbox.png)"></p>
 
 <p align="center">
     <a href="https://instagram.com/mdarif4e">
